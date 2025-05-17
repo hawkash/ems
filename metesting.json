@@ -1,0 +1,251 @@
+{
+  "setName": "me testing",
+  "lastUpdate": "2025-05-17T00:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is the primary role of paramedics?",
+      "options": ["Research", "Patient care", "Public health", "Disaster planning"],
+      "correctAnswerIndex": 1,
+      "image": null,
+      "explanation": "Paramedics primarily provide emergency medical care to patients."
+    },
+    {
+      "id": 2,
+      "text": "Which of the following is the most appropriate action in dealing with home delivery complicated with cord prolapse?",
+      "options": [
+        "Ask the patient to push hard",
+        "Try to reduce the prolapsed cord then transfer the patient",
+        "Give the patient one dose of midazolam then transfer the patient",
+        "Elevate the presenting fetal part to reduce the compression on the cord"
+      ],
+      "correctAnswerIndex": 3,
+      "image": "https://placehold.co/200*200.png",
+      "explanation": null
+    },
+    {
+      "id": 3,
+      "text": "Which vital sign is most critical in assessing shock?",
+      "options": ["Heart rate", "Respiratory rate", "Blood pressure", "Skin color"],
+      "correctAnswerIndex": 2,
+      "image": null,
+      "explanation": "Blood pressure helps assess perfusion and the severity of shock."
+    },
+    {
+      "id": 4,
+      "text": "What is the first step in managing an unresponsive patient?",
+      "options": ["Check pulse", "Open airway", "Call for help", "Administer oxygen"],
+      "correctAnswerIndex": 1,
+      "image": null,
+      "explanation": "Opening the airway ensures the patient can breathe."
+    },
+    {
+      "id": 5,
+      "text": "Which structure is responsible for oxygen exchange in the lungs?",
+      "options": ["Trachea", "Bronchi", "Alveoli", "Pleura"],
+      "correctAnswerIndex": 2,
+      "image": null,
+      "explanation": "Alveoli are the primary site of gas exchange in the lungs."
+    },
+    {
+      "id": 6,
+      "text": "What does SAMPLE history stand for?",
+      "options": [
+        "Signs, Allergies, Medications, Past history, Last meal, Events",
+        "Symptoms, Age, Medications, Past illnesses, Last intake, Events",
+        "Signs, Allergies, Medications, Past illnesses, Last oral intake, Events",
+        "Symptoms, Allergies, Medications, Past history, Last oral intake, Events"
+      ],
+      "correctAnswerIndex": 3,
+      "image": null,
+      "explanation": "SAMPLE is a mnemonic for patient history assessment."
+    },
+    {
+      "id": 7,
+      "text": "Which rhythm is shockable in cardiac arrest?",
+      "options": ["Asystole", "Ventricular fibrillation", "PEA", "Sinus bradycardia"],
+      "correctAnswerIndex": 1,
+      "image": "https://placehold.co/200*200.png",
+      "explanation": "Ventricular fibrillation is one of the shockable rhythms."
+    },
+    {
+      "id": 8,
+      "text": "What medication is commonly used in anaphylaxis?",
+      "options": ["Diphenhydramine", "Albuterol", "Epinephrine", "Nitroglycerin"],
+      "correctAnswerIndex": 2,
+      "image": null,
+      "explanation": "Epinephrine is the first-line treatment in anaphylaxis."
+    },
+    {
+      "id": 9,
+      "text": "What is the normal respiratory rate for an adult?",
+      "options": ["8–14", "12–20", "16–24", "10–18"],
+      "correctAnswerIndex": 1,
+      "image": null,
+      "explanation": "The normal adult respiratory rate is 12–20 breaths per minute."
+    },
+    {
+      "id": 10,
+      "text": "How should you treat a sucking chest wound?",
+      "options": [
+        "Apply a sterile gauze only",
+        "Seal it completely with plastic",
+        "Use an occlusive dressing taped on three sides",
+        "Leave it open to allow drainage"
+      ],
+      "correctAnswerIndex": 2,
+      "image": null,
+      "explanation": "An occlusive dressing taped on three sides creates a flutter valve effect."
+    },
+    {
+      "id": 11,
+      "text": "What is the preferred method of delivering oxygen to a conscious hypoxic patient?",
+      "options": ["Bag-valve mask", "Nasal cannula", "Non-rebreather mask", "Ventilator"],
+      "correctAnswerIndex": 2,
+      "image": null,
+      "explanation": "A non-rebreather mask delivers high-flow oxygen to conscious patients."
+    },
+    {
+      "id": 12,
+      "text": "What is a contraindication for nitroglycerin administration?",
+      "options": [
+        "Chest pain",
+        "High blood pressure",
+        "Use of erectile dysfunction drugs",
+        "Normal respiratory rate"
+      ],
+      "correctAnswerIndex": 2,
+      "image": null,
+      "explanation": "Nitroglycerin is contraindicated with recent use of ED drugs due to risk of severe hypotension."
+    },
+    {
+      "id": 13,
+      "text": "What is the Glasgow Coma Scale used to assess?",
+      "options": ["Pain level", "Cardiac output", "Level of consciousness", "Pupil reactivity"],
+      "correctAnswerIndex": 2,
+      "image": null,
+      "explanation": "The GCS evaluates eye, verbal, and motor responses to assess consciousness."
+    },
+    {
+      "id": 14,
+      "text": "Which sign is most indicative of a tension pneumothorax?",
+      "options": [
+        "Tracheal deviation",
+        "Rapid heart rate",
+        "Cyanosis",
+        "Chest pain"
+      ],
+      "correctAnswerIndex": 0,
+      "image": "https://placehold.co/200*200.png",
+      "explanation": "Tracheal deviation away from the affected side is a key sign of tension pneumothorax."
+    },
+    {
+      "id": 15,
+      "text": "Which of the following is part of the lower airway?",
+      "options": ["Nasal cavity", "Larynx", "Trachea", "Pharynx"],
+      "correctAnswerIndex": 2,
+      "image": null,
+      "explanation": "The trachea is a component of the lower airway."
+    },
+    {
+      "id": 16,
+      "text": "What does the 'P' in OPQRST stand for?",
+      "options": ["Pain", "Provocation", "Palpation", "Pulse"],
+      "correctAnswerIndex": 1,
+      "image": null,
+      "explanation": "'P' refers to what provokes or worsens the pain."
+    },
+    {
+      "id": 17,
+      "text": "What is the appropriate depth of chest compressions in an adult?",
+      "options": ["1 inch", "2 inches", "3 inches", "1.5 inches"],
+      "correctAnswerIndex": 1,
+      "image": null,
+      "explanation": "Adult chest compressions should be at least 2 inches deep."
+    },
+    {
+      "id": 18,
+      "text": "Which of the following is a sign of hypoglycemia?",
+      "options": ["Dry mouth", "Slow pulse", "Confusion", "Fever"],
+      "correctAnswerIndex": 2,
+      "image": null,
+      "explanation": "Confusion is a common neurological sign of low blood sugar."
+    },
+    {
+      "id": 19,
+      "text": "What does AED stand for?",
+      "options": [
+        "Automated External Defibrillator",
+        "Advanced Emergency Device",
+        "Automatic Emergency Defibrillator",
+        "Assisted Electrical Device"
+      ],
+      "correctAnswerIndex": 0,
+      "image": null,
+      "explanation": "AED is a life-saving device for treating sudden cardiac arrest."
+    },
+    {
+      "id": 20,
+      "text": "When should you reassess a stable patient?",
+      "options": ["Every 5 minutes", "Every 15 minutes", "Only at the hospital", "Every 30 minutes"],
+      "correctAnswerIndex": 1,
+      "image": null,
+      "explanation": "Stable patients are reassessed every 15 minutes."
+    },
+    {
+      "id": 21,
+      "text": "What does DCAP-BTLS stand for?",
+      "options": [
+        "Deformities, Contusions, Abrasions, Punctures, Burns, Tenderness, Lacerations, Swelling",
+        "Deformities, Cuts, Aches, Punctures, Bleeding, Tension, Lumps, Sensitivity",
+        "Decompression, Circulation, Airway, Pain, Breathing, Temperature, Loss of sensation, Skin tone",
+        "Drainage, Contusions, Abdomen, Pulse, Bruising, Thirst, Lesions, Stiffness"
+      ],
+      "correctAnswerIndex": 0,
+      "image": null,
+      "explanation": "DCAP-BTLS is a trauma assessment mnemonic."
+    },
+    {
+      "id": 22,
+      "text": "Which of the following requires immediate transport?",
+      "options": [
+        "Minor abrasion",
+        "Controlled nosebleed",
+        "Unconscious diabetic patient",
+        "Bruised elbow"
+      ],
+      "correctAnswerIndex": 2,
+      "image": null,
+      "explanation": "An unconscious diabetic patient requires urgent care."
+    },
+    {
+      "id": 23,
+      "text": "What is the best method to open the airway of a patient with suspected spinal injury?",
+      "options": [
+        "Head-tilt, chin-lift",
+        "Jaw-thrust maneuver",
+        "Chin-press",
+        "Mouth sweep"
+      ],
+      "correctAnswerIndex": 1,
+      "image": null,
+      "explanation": "Jaw-thrust protects the cervical spine."
+    },
+    {
+      "id": 24,
+      "text": "How many compressions per minute should be performed during CPR?",
+      "options": ["60–80", "80–100", "100–120", "120–140"],
+      "correctAnswerIndex": 2,
+      "image": null,
+      "explanation": "The recommended rate is 100–120 compressions per minute."
+    },
+    {
+      "id": 25,
+      "text": "Which organ is located in the right upper quadrant?",
+      "options": ["Stomach", "Liver", "Appendix", "Spleen"],
+      "correctAnswerIndex": 1,
+      "image": null,
+      "explanation": "The liver is located in the right upper quadrant of the abdomen."
+    }
+  ]
+}
