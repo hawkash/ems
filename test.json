@@ -1,0 +1,32 @@
+{
+  "setName": "NREMT",
+  "lastUpdate": "2025-05-17T00:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is the primary role of paramedics?",
+      "options": [
+        "Research",
+        "Patient care",
+        "Public health",
+        "Disaster planning"
+      ],
+      "correctAnswerIndex": 1,
+      "image": null,
+      "explanation": null
+    },
+    {
+      "id": 2,
+      "text": "Which of the following is the most appropriate action in dealing with home delivery complicated with cord prolapse?",
+      "options": [
+        "Ask the patient to push hard",
+        "Try to reduce the prolapsed cord then transfer the patient",
+        "Give the patient one dose of midazolam then transfer the patient",
+        "Elevate the presenting fetal part to reduce the compression on the cord"
+      ],
+      "correctAnswerIndex": 3,
+      "image": "https://placehold.co/400",
+      "explanation": null
+    }
+  ]
+}
