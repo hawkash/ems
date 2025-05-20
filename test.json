@@ -1,32 +1,31 @@
 {
-  "setName": "NREMT",
-  "lastUpdate": "2025-05-17T00:00:00Z",
+  "setName": "Paramedic Practice",
+  "lastUpdate": "2024-03-20T10:00:00Z",
+  "version": "1.0.0",
   "questions": [
     {
       "id": 1,
-      "text": "What is the primary role of paramedics?",
+      "text": "What is the first step in patient assessment?",
       "options": [
-        "Research",
-        "Patient care",
-        "Public health",
-        "Disaster planning"
+        "Check breathing",
+        "Check pulse",
+        "Check responsiveness",
+        "Check airway"
       ],
-      "correctAnswerIndex": 1,
-      "image": null,
-      "explanation": null
+      "correctAnswerIndex": 2,
+      "explanation": "Always check responsiveness first to determine if the patient is conscious."
     },
     {
       "id": 2,
-      "text": "Which of the following is the most appropriate action in dealing with home delivery complicated with cord prolapse?",
+      "text": "Which of the following is NOT a sign of respiratory distress?",
       "options": [
-        "Ask the patient to push hard",
-        "Try to reduce the prolapsed cord then transfer the patient",
-        "Give the patient one dose of midazolam then transfer the patient",
-        "Elevate the presenting fetal part to reduce the compression on the cord"
+        "Nasal flaring",
+        "Tripod positioning",
+        "Normal respiratory rate",
+        "Accessory muscle use"
       ],
-      "correctAnswerIndex": 3,
-      "image": "https://placehold.co/200*200.png",
-      "explanation": null
+      "correctAnswerIndex": 2,
+      "explanation": "Normal respiratory rate is not a sign of respiratory distress. All other options are classic signs."
     }
   ]
 }
